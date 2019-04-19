@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/HSapers/upstart_data/blob/master/test_vis.csv",
+	"file": "https://raw.githubusercontent.com/HSapers/upstart_data/master/test_vis.csv",
 	"name": "Test_vis",
 	"header": 0,
 	"separator": ",",
