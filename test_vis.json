@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/HSapers/upstart_data/blob/master/test_vis.csv",
+	"name": "Test_vis",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "OTU" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 74 }
+	]
+}
